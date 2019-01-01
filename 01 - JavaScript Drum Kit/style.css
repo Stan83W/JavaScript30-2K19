@@ -33,6 +33,7 @@ body,html {
   text-shadow: 0 0 .5rem black;
   display: flex;
   justify-content: space-around;
+  flex-direction: column;
 }
 
 .playing {
